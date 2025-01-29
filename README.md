@@ -1,9 +1,9 @@
 # Health-Report-Summarizer
-Overview
+**Overview**
 
 Health Report Summarizer is an AI-powered tool designed to extract and summarize key information from patient medical reports in PDF format. It leverages Optical Character Recognition (OCR) and advanced text processing techniques to generate structured summaries, making medical records more accessible and interpretable.
 
-Features
+**Features**
 
 Extracts text from medical reports using OCR
 
@@ -15,7 +15,7 @@ Supports PDF input with multi-page document handling
 
 User-friendly interface built with Streamlit
 
-Technologies Used
+**Technologies Used**
 
 Python: Core programming language
 
